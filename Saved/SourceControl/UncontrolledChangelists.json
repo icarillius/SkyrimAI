@@ -29,7 +29,8 @@
 				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BPI_Damage.uasset",
 				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BPI_UpdateAI.uasset",
 				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BTTask_RunFromEnemy.uasset"
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BTTask_RunFromEnemy.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Widget/UMG_HUD.uasset"
 			]
 		}
 	]

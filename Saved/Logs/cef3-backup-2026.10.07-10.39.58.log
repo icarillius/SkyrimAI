@@ -1,0 +1,13 @@
+[18400:18396:1007/091205.579:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18400:6016:1007/091205.828:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18400:18396:1007/091205.960:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16712:17668:1007/091216.678:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-267DED036FEC11A1073EF4EBE34B28D8 will be ignored
+[18260:17064:1007/091217.331:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18400:23304:1007/091217.491:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18260:17064:1007/091217.998:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18260:17064:1007/091232.651:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18260:17064:1007/091244.659:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18260:13028:1007/093003.321:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[18400:6016:1007/093003.321:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[18400:18396:1007/112718.932:ERROR:device_event_log_impl.cc(196)] [11:27:18.701] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18400:18396:1007/113958.044:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
