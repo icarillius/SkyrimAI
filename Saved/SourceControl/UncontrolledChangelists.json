@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/GameMode/GM_MainGameMode.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BP_NPCController.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BP_NPC.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BT_NPCBT.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/NI/WRNIVKT16LE1HPGSB9YWY6.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/NPCLocations/BP_LocationTemplate.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/Y0/BKLYKHJ80R27S0CLHTZTHR.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/83/SF2I3ZHIV19ZSGU4LVVSX4.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/6R/R04EFWSMEYE10334U5F8C8.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BTTask_GoToBed.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BTTask_GoToWork.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BTTask_GoToFun.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/CV/73B3X1XZBMXPDMKVPUW9X4.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JQ/D817848FKOVOQL9Q9GFAWB.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BB_NPC.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BTTask_Time.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/NPCLocations/BP_Bed.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/NPCLocations/BP_Work.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/NPCLocations/BP_Fun.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BTTask_GoToEnemy.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BPI_Damage.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BPI_UpdateAI.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ig23/AppData/Local/Development/SkyrimAI/Content/Blueprints/AI/BTTask_RunFromEnemy.uasset"
+			]
+		}
+	]
+}
